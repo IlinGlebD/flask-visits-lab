@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+
+  db:
+    image: postgres:16
